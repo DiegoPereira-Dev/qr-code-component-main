@@ -1,12 +1,16 @@
 body{
     background:#d5e1ef;
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+    place-items: center;
+    min-height: 100vh
 }
 
 .container{
     box-sizing: border-box;
     border-radius: 16px;
     width: 350px;
-    margin: 50px auto;
     background-color: #ffff;
 }
 

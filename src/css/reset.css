@@ -3,11 +3,6 @@
     padding: 0;
 }
 
-html,body{
-    height: 100%;
-    max-width: 1440px;
-}
-
 body{
     font-family: 'Outfit', sans-serif;
     font-size: 15px;
